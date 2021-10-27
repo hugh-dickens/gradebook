@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lnm3bqnPEDZM201J2G0dFzzNzC8gylUcDEVaf5+8KnbS/gjEib9i6BqB4OPFZQ9t/VLgaDBu7Jnc9vznhQjvGg==",
+  "dgSpecHash": "pDoZnaErFTADVwn/L0OeYsX13ScFOOipp1hd+6Uzu7jDRGShL4e9Htb59ft23mIIANP08916i2l/EQA4KR5XVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HWD1\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+  "projectFilePath": "C:\\Users\\HWD1\\Documents\\Learning\\gradebook\\src\\GradeBook\\GradeBook.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
