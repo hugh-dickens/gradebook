@@ -94,3 +94,6 @@ C:\Users\HWD1\Documents\Learning\gradebook\test\GradeBook.Tests\obj\Debug\netcor
 C:\Users\HWD1\Documents\Learning\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp3.1\GradeBook.Tests.dll
 C:\Users\HWD1\Documents\Learning\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp3.1\GradeBook.Tests.pdb
 C:\Users\HWD1\Documents\Learning\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp3.1\GradeBook.Tests.genruntimeconfig.cache
+C:\Users\HWD1\Documents\Learning\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp3.1\GradeBook.exe
+C:\Users\HWD1\Documents\Learning\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\HWD1\Documents\Learning\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp3.1\GradeBook.pdb
