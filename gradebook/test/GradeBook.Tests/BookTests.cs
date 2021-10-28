@@ -18,6 +18,7 @@ namespace GradeBook.Tests
             book.ShowStatistics();
 
             // assert
+            CrossAppDomainDelegate.Combine..
             
 
         }
